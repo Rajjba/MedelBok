@@ -27,7 +27,7 @@ public class Author{
         gender = reader2.next().charAt(0);
 
         while(true){
-            System.out.println("summarize book info?");
+            System.out.println("Do you want a summarize of the book info?");
             Scanner myScan = new Scanner(System.in);
             String answer = myScan.next();
             if(Objects.equals(answer, "yes")){

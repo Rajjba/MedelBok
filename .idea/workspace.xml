@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a38983-40d8-4519-9ce5-731167c1065e" name="Changes" comment="Halfway done.">
+    <list default="true" id="f1a38983-40d8-4519-9ce5-731167c1065e" name="Changes" comment="Almost done, major improvements.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674465364152</updated>
       <workItem from="1674465365625" duration="5597000" />
-      <workItem from="1674491579804" duration="5591000" />
+      <workItem from="1674491579804" duration="5678000" />
+      <workItem from="1674556941394" duration="508000" />
     </task>
     <task id="LOCAL-00001" summary="Halfway done.">
       <created>1674470510695</created>
@@ -63,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674470510695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Almost done, major improvements.">
+      <created>1674497264792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674497264792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Halfway done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Halfway done." />
+    <MESSAGE value="Almost done, major improvements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost done, major improvements." />
   </component>
 </project>
